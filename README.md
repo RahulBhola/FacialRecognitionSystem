@@ -52,3 +52,6 @@ Continuous Improvement:
 Proactively updated and maintained the systems, incorporating feedback and improvements for optimal performance.
 Stayed abreast of advancements in data science and machine learning to implement cutting-edge solutions.
 Feel free to tailor these points based on the specific details and achievements in your project.
+
+
+THANK YOU
